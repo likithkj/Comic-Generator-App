@@ -1,0 +1,3 @@
+[submodule "flask-server/flask-server/react-app"]
+	path = flask-server/flask-server/react-app
+	url = https://github.com/likithkj/comic-generator-app
